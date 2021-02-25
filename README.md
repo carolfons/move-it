@@ -5,7 +5,7 @@
 </p>
 
 <h2> :runner: Descrição</h2>
-<p> Projeto desenvolvido junto com a Next Level Week #04 da <a href = "https://github.com/Rocketseat"> @Rockeseat </a> com o objetivo de criar uma aplicação web que auxília pessoas a se manterem em constante movimento para não passar horas demais sem devidas pausas</p>
+<p> Projeto frontend desenvolvido junto com a Next Level Week #04 da <a href = "https://github.com/Rocketseat"> @Rockeseat </a> com o objetivo de criar uma aplicação web que auxília pessoas a se manterem em constante movimento para não passar horas demais sem devidas pausas </p>
 <h2>:runner: Status</h2>
 <p> Em Construção... :rocket: </p>
 <h2>:runner: Tecnologias</h2>
@@ -34,7 +34,7 @@
  
  <tr>
  <td> Aula 03 </td>
- <td> Em desenvolvimento :rocket: :x: </td>
+ <td> Em desenvolvimento :rocket: </td>
  </tr>
  
  <tr>
