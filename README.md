@@ -5,9 +5,9 @@
 </p>
 
 <h2> :runner: Descrição</h2>
-<p> Projeto desenvolvido junto com a Next Level Week #04 da RocketSeat com o objetivo de criar uma aplicação web que auxília pessoas a se manterem em constante movimento para não passar horas demais sem devidas pausas</p>
+<p> Projeto desenvolvido junto com a Next Level Week #04 da <a href = "https://github.com/Rocketseat"> @Rockeseat </a> com o objetivo de criar uma aplicação web que auxília pessoas a se manterem em constante movimento para não passar horas demais sem devidas pausas</p>
 <h2>:runner: Status</h2>
-<p> Em Construção...</p>
+<p> Em Construção... :rocket: </p>
 <h2>:runner: Tecnologias</h2>
 <ul>
   <li>Typescript</li>
@@ -34,7 +34,7 @@
  
  <tr>
  <td> Aula 03 </td>
- <td> Não Disponível :x: </td>
+ <td> Em desenvolvimento :rocket: :x: </td>
  </tr>
  
  <tr>
@@ -47,3 +47,10 @@
  <td> Não Disponível :x:</td>
  </tr>
 </table>
+
+<h2> :runner: Licença </h2>
+Esse projeto está sob a licença MIT
+
+---
+
+<p align="center">Desenvolvido por Caroline Fonseca</p>
