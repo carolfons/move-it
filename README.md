@@ -4,20 +4,24 @@
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/carolfons/move-it?color=red&style=for-the-badge">
 </p>
 
-<h2 align = "center"> :runner: Descrição</h2>
-<p align = "center"> Projeto frontend desenvolvido junto com a Next Level Week #04 da <a href = "https://github.com/Rocketseat"> @Rockeseat </a> com o objetivo de criar uma aplicação web que auxília pessoas a se manterem em constante movimento para não passar horas demais sem devidas pausas </p>
-<h2 align = "center">:runner: Status</h2>
-<p align = "center"> Em Construção... :rocket: </p>
-<h2 align = "center">:runner: Tecnologias</h2>
+<h2> :runner: Descrição</h2>
+<p > Projeto frontend desenvolvido junto com a Next Level Week #04 da <a href = "https://github.com/Rocketseat"> @Rockeseat </a> com o objetivo de criar uma aplicação web que auxília pessoas a se manterem em constante movimento para não passar horas demais sem devidas pausas </p>
+<h2 >:runner: Status</h2>
+<p> Em Construção... :rocket: </p>
+<h2 >:runner: Tecnologias</h2>
 
-<p align = "center"> Typescript | ReactJs | Next.js | Node.js </p>
-
-
-<h2 align = "center"> :runner: Checklist </h2>
-<table border = "1" align = "center">
+ <ul>
+ <li>Typescript</li>
+ <li>ReactJs</li>
+ <li> Next.js</li>
+ <li> Node.js</li>
+ </ul>
+  
+<h2> :runner: Checklist </h2>
+<table border = "1">
  <tr>
- <th align = "center"> <bold>Aulas</bold> </th>
- <th align = "center"><bold> Status</bold> </th>
+ <th> <bold>Aulas</bold> </th>
+ <th><bold> Status</bold> </th>
  </tr>
  
  <tr>
@@ -46,9 +50,9 @@
  </tr>
 </table>
 
-<h2 align = "center"> :runner: Licença </h2>
-<p align= "center"> Esse projeto está sob a licença MIT </p>
+<h2> :runner: Licença </h2>
+<p> Esse projeto está sob a licença MIT </p>
 
 ---
 
-<p align="center">Desenvolvido por Caroline Fonseca</p>
+<p align = "center">Desenvolvido por Caroline Fonseca</p>
