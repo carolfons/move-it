@@ -47,7 +47,7 @@
 </table>
 
 <h2 align = "center"> :runner: Licença </h2>
-Esse projeto está sob a licença MIT
+<p align= "center"> Esse projeto está sob a licença MIT </p>
 
 ---
 
