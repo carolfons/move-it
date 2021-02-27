@@ -36,12 +36,12 @@
  
  <tr>
  <td> Aula 03 </td>
- <td> Em desenvolvimento :rocket: </td>
+ <td> Feito :heavy_check_mark: </td>
  </tr>
  
  <tr>
  <td> Aula 04 </td>
- <td> Não Disponível :x: </td>
+ <td> Em desenvolvimento :rocket: </td>
  </tr>
  
  <tr>
