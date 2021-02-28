@@ -5,6 +5,7 @@
 }
 :root {
   --white: #fff;
+  /* --white: rgb(201, 209, 217); */
   --background: #f2f3f5;
   --gray-line: #dcdde0;
   --text: #666666;
