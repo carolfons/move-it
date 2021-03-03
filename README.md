@@ -8,7 +8,7 @@
 <p > Projeto frontend desenvolvido junto com a Next Level Week #04 da <a href = "https://github.com/Rocketseat"> @Rockeseat </a> com o objetivo de criar uma aplicação web que auxília pessoas a se manterem em constante movimento para não passar horas demais sem devidas pausas </p>
 <h2 >:runner: Status</h2>
 <h3> Projeto Concluído :heavy_check_mark:</h3>
-<p> :running:  <a href = "http://move-it-carolfons.vercel.app/"> Deploy </a></p>
+<p><a href = "http://move-it-carolfons.vercel.app/"> Deploy </a></p>
 <h2 >:runner: Tecnologias</h2>
 
  <ul>
